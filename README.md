@@ -6,7 +6,10 @@ It loads a unique token for each every site visits where it is placed. This toke
 
 File details:
 button.html - used to identify the action id
+
 customrecaptcha.html - used to load the unique google front end token - place the code under your customrecaptcha component
+
 GetRecaptchaResponseServlet.java - used to validate the token with google server
+
 validate.js - used to validate the google server response.
 
